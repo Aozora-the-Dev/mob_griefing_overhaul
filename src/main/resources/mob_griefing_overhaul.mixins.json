@@ -1,0 +1,15 @@
+{
+	"required": true,
+	"package": "com.aozorathedev.mob_griefing_overhaul.mixin",
+	"compatibilityLevel": "JAVA_25",
+	"mixins": [
+		"AbstractEndermanTakeBlockGoal",
+		"AbstractServerLevelMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}

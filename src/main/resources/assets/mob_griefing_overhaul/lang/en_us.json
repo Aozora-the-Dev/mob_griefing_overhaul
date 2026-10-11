@@ -1,0 +1,9 @@
+{
+  "mob_griefing.creeper_griefing": "Creeper Griefing",
+  "mob_griefing.enderman_griefing": "Enderman Griefing",
+  "mob_griefing.ghast_fireball_griefing": "Ghast Fireball Griefing",
+
+  "gamerule.mob_griefing_overhaul.creeper_griefing": "Enables destructive creeper explosions",
+  "gamerule.mob_griefing_overhaul.enderman_griefing": "Enables endermen to pick up blocks",
+  "gamerule.mob_griefing_overhaul.ghast_fireball_griefing": "Enables destructive ghast fireball explosions"
+}

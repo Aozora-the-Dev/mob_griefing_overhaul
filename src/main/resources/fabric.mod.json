@@ -3,15 +3,15 @@
 	"id": "mob_griefing_overhaul",
 	"version": "${version}",
 	"name": "Mob Griefing Overhaul",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "A mod for adjusting mob griefing",
 	"authors": [
-		"Me!"
+		"Aozora-the-Dev"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://https://github.com/Aozora-the-Dev/mob_griefing_overhaul",
+		"sources": "https://https://github.com/Aozora-the-Dev/mob_griefing_overhaul"
 	},
-	"license": "CC0-1.0",
+	"license": "MIT",
 	"icon": "assets/mob_griefing_overhaul/icon.png",
 	"environment": "*",
 	"entrypoints": {
